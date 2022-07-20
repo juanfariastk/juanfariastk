@@ -14,8 +14,7 @@
 ## 🕹 &nbsp; Analytics
 <p>
   <img width="500px"src="https://github-readme-stats.vercel.app/api?username=juanfariastk&show_icons=true&theme=omni">
- 
-  
+  <img width="500px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia">
   </p>
 <br>
 
