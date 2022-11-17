@@ -4,7 +4,7 @@
 
 - 🌹 Apaixonado por desenvolvimento web
 - 😢 Atualmente em busca de um estágio
-- 🧃 HMTL, CSS, JavaScript e aprimorando...
+- 🧃 Sempre aprimorando...
 <br>
 
 ## 🔭 &nbsp; Conhecimentos
