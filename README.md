@@ -3,7 +3,7 @@
 <h1 align="left"> Olá, bem vindo ao Meu mundo! Prazer, Juan Farias <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 - 🌹 Apaixonado por desenvolvimento web
-- 😢 Atualmente em busca de um estágio
+- 😢 Atualmente em busca de uma vaga Júnior
 - 🧃 Sempre aprimorando...
 <br>
 
