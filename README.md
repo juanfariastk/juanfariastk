@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/gist/juanfariastk/5d6a39f32981983c00afedef5bb34f1c/raw/6a6be104f60bb9617770a6dd4e2dcea0a7e9b771/jfgitcard.svg" width="350" title="hover text">
+<img style="position: relative; z-index: 9999;" align="right" src="https://raw.githubusercontent.com/gist/juanfariastk/5d6a39f32981983c00afedef5bb34f1c/raw/6a6be104f60bb9617770a6dd4e2dcea0a7e9b771/jfgitcard.svg" width="350" title="hover text">
 
 <h1 align="left"> Olá, bem vindo ao Meu mundo! Prazer, Juan Farias <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
@@ -13,7 +13,7 @@
 
 
 ## 🕹 &nbsp; Analytics
-<p style="position: relative; z-index: 9999;">
+<p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfariastk&layout=compact&theme=dark">
 </p>
 
