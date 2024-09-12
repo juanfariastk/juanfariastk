@@ -13,9 +13,9 @@
 
 
 ## 🕹 &nbsp; Analytics
-<p>
-  <img width="400px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfariastk&layout=compact&theme=dark">
-  </p>
+<p style="position: relative; z-index: 9999;">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfariastk&layout=compact&theme=dark">
+</p>
 
 ## 🧐 &nbsp; Social
 <p>
