@@ -7,7 +7,7 @@
 <br>
 
 ## 🔭 &nbsp; Conhecimentos
- <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /><img src="https://img.shields.io/badge/Express.js-404D59?style=flat" /> 
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat" /> 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
 
 
